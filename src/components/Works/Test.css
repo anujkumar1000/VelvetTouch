@@ -1,0 +1,52 @@
+.form-group, .result{
+  height: 300px;
+  width: 300px;
+  padding: 70px;
+  background-color: var(--yellow);
+  margin-top: 100px;
+  margin-left: 450px;
+  /* margin-bottom: 20px; */
+  text-align: center;
+  border-radius: 20px;
+}
+
+label{
+  margin-top: 20px;
+  margin-bottom: 30px;
+  /* padding-bottom: 40px; */
+  font-size: 40px;
+}
+
+.h2re{
+  margin-top: -40px;
+  /* margin-bottom: 30px; */
+  /* padding-bottom: 40px; */
+  font-size: 40px;
+}
+
+
+
+select{
+  padding: 20px;
+  background-color: var(--black);
+  border-radius: 20px;
+  color: white;
+  border-style: none;
+}
+
+.btn{
+  padding: 10px;
+  width: 100px;
+  background-color: var(--black);
+  border-radius: 20px;
+  color: white;
+}
+
+.imgwh{
+  width: 150px;
+  height: 150px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  border-radius: 20px;
+}
